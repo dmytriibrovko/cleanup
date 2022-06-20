@@ -1,4 +1,5 @@
 {
   "awsPassword" : "***REMOVED***",
-  "awsKey" : "***REMOVED***"
+  "awsKey" : "***REMOVED***",
+  "test" : "tmp"
 }
